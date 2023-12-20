@@ -4,7 +4,6 @@
 [Screencast from 20.12.2023 16:06:48.webm](https://github.com/Nawid01/Animate-Input-Error/assets/146708733/2874b8e5-9684-4703-aed6-f5866fe15319)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawid01&label=Profile%20views&color=0e75b6&style=flat" alt="nawid01" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
