@@ -1,7 +1,7 @@
 <h1 align="center">Animate Input Error</h1>
 <h3 align="center">I hope You Like It </h3>
 
-file:///home/nawid/Videos/Screencasts/Screencast%20from%2020.12.2023%2016:06:48.webm
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawid01&label=Profile%20views&color=0e75b6&style=flat" alt="nawid01" /> </p>
